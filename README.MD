@@ -1,4 +1,4 @@
-# Análisis de Ventas | Walmart Sales Analysis
+# 📊 Análisis de Ventas | Walmart Sales Analysis
 
 "Walmart" es una de las mayores cadenas minoristas del mundo.
 
@@ -32,4 +32,4 @@ Investigar qué factores influyen en sus ingresos:
 
 ## Cómo usar este proyecto
 
-Descarga o clona este repositorio:
+Descarga o clona este repositorio: https://github.com/belen-f/portfolio-WalmartSalesDataAnalisys.git
